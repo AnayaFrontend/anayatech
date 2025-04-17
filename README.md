@@ -1,6 +1,6 @@
 # 🚀 AnayaTech Blog
 
-[![Deploy with Vercel]](https://anayatech.vercel.app/)
+Link do projeto: [![[![Deploy with Vercel]](https://anayatech.vercel.app/)]](https://anayatech.vercel.app/)
 
 ## 📋 Sobre o Projeto
 
