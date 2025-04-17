@@ -1,5 +1,7 @@
 # 🚀 AnayaTech Blog
 
+![image](https://github.com/user-attachments/assets/9c8365ba-c4dc-40c7-a48b-27ef8db51af9)
+
 Link do projeto: https://anayatech.vercel.app/
 
 ## 📋 Sobre o Projeto
