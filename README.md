@@ -1,5 +1,7 @@
 # 🚀 AnayaTech Blog
 
+[![Deploy with Vercel]](https://anayatech.vercel.app/)
+
 ## 📋 Sobre o Projeto
 
 O AnayaTech Blog é uma plataforma moderna e elegante dedicada a compartilhar conhecimento sobre programação, inteligência artificial e home office. Com um design minimalista e responsivo, o blog oferece uma experiência de leitura agradável em qualquer dispositivo.
